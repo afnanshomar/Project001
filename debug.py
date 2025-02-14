@@ -12,7 +12,7 @@ def get_sum_metrics(prediction, metrics=None):
         metrics = []
 
     for i in range(3):
-        metrics.append(gen_add_i(i))  # Append lambda functions to metrics
+        metrics.append(gen_add_i(i))
 
     sum_metrics = 0
     for metric in metrics:
