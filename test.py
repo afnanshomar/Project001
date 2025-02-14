@@ -36,7 +36,7 @@ def check_scipy():
         import scipy
         log(green("PASS"), "SciPy installed")
     except ModuleNotFoundError:
-        log(red("FAIL"), "SciPy not installed")  # تم إصلاح القوس هنا
+        log(red("FAIL"), "SciPy not installed")
 
 
 def check_matplotlib():

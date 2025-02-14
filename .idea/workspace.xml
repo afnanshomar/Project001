@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e426535c-3c88-4cb1-af5b-7f3ce2e7788e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/debug-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/main-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/main-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/test-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/test-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/untitled-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/untitled1-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNNs.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeuralNetwork1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeuralNetwork2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outline.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PointOfView.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PointOfView2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RNN(1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RNN(2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
